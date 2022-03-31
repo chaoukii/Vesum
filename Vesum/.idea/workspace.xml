@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cfae42f-3aef-4d64-8bbc-143fe1d80b95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iTm715tFN23k2DPgIY9TevqgWm" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="G:/CD/app/android/mlkit-automl" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\memoire\IMG_DALLA\PFE_APP\app\android\mlkit-automl\app\src\main\res\raw" />
+      <recent name="C:\Users\Admin\Downloads\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\res\drawable-hdpi" />
+      <recent name="C:\Users\Admin\Downloads\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\res\layout" />
+      <recent name="C:\Users\Admin\Downloads\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\res\anime" />
+      <recent name="C:\Users\Admin\Downloads\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\res\raw" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.google.firebase.codelab.mlkit.automl" />
+      <recent name="com" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\IMG_DALLA\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\res\raw" />
+      <recent name="C:\Users\Admin\Desktop\IMG_DALLA\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\assets\automl" />
+      <recent name="C:\Users\Admin\Downloads\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\res\drawable" />
+      <recent name="C:\Users\Admin\Downloads\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\res\drawable-hdpi" />
+      <recent name="C:\Users\Admin\Downloads\automl-vision-edge-in-mlkit-master\automl-vision-edge-in-mlkit-master\android\mlkit-automl\app\src\main\assets\automl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.google.firebase.codelab.mlkit.automl.BaseActivity" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cfae42f-3aef-4d64-8bbc-143fe1d80b95" name="Default Changelist" comment="" />
+      <created>1582836838677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582836838677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="165" key="#app" timestamp="1621187067412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="165" key="#app/1920.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1621187067412" />
+    <state x="706" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619466350574">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="706" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1619466350574" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1621187065652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1621187065652" />
+    <state x="740" y="284" key="FileChooserDialogImpl" timestamp="1621199136079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1536.864@0.0.1920.1080" timestamp="1619467685308" />
+    <state x="740" y="284" key="FileChooserDialogImpl/1920.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1621199136079" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1621198456482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1621198456482" />
+  </component>
+</project>

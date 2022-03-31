@@ -1,0 +1,4 @@
+F:\TUTORIOLS\memoire\IMG_DALLA\PFE_APP\app\android\mlkit-automl\app\src\main\java\com\google\firebase\codelab\mlkit\automl\BaseActivity.kt
+F:\TUTORIOLS\memoire\IMG_DALLA\PFE_APP\app\android\mlkit-automl\app\src\main\java\com\google\firebase\codelab\mlkit\automl\ImageClassifier.kt
+F:\TUTORIOLS\memoire\IMG_DALLA\PFE_APP\app\android\mlkit-automl\app\src\main\java\com\google\firebase\codelab\mlkit\automl\SliderActivity.kt
+F:\TUTORIOLS\memoire\IMG_DALLA\PFE_APP\app\android\mlkit-automl\app\src\main\java\com\google\firebase\codelab\mlkit\automl\StillImageActivity.kt

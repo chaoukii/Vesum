@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222503432377",
+    "firebase_url": "https://img-dalla.firebaseio.com",
+    "project_id": "img-dalla",
+    "storage_bucket": "img-dalla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222503432377:android:5c9318396b2364a8956b68",
+        "android_client_info": {
+          "package_name": "com.example.img_dalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222503432377-b37i2h7i2a7fq5qn68ss2u6gimuo26e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.img_dalla",
+            "certificate_hash": "026d999bfd4795a163e946592af39b18d5efc96b"
+          }
+        },
+        {
+          "client_id": "222503432377-2qe8snqaal1oet4bst19et7c4sv4d3l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD65ZB6XoW2uef2Sscs-FxcUmskkEDOZzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222503432377-2qe8snqaal1oet4bst19et7c4sv4d3l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
